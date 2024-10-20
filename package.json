@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "https://github.com/Volodymyr10020/goit-js-hw-09/tree/main",
+    "build": "vite build --base=/goit-js-hw-09/",
     "preview": "vite preview"
   },
   "devDependencies": {
